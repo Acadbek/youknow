@@ -6,5 +6,5 @@ First, run the development server:
 ```bash
 yarn dev
 ```
-Open [http://youknow.uz](http://youknow.uz) with your browser to see the result.
+Open [http://###.uz](http://###.uz) with your browser to see the result.
 # youknow
